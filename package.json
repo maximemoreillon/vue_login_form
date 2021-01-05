@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@moreillon/vue_loader": "^0.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.4",
     "rollup": "^1.17.0",
     "rollup-plugin-buble": "^0.19.8",
